@@ -7,7 +7,7 @@ const Aside = () => {
       <div className='welcome d-flex'>
         <div> <img src="" alt="profile-pic" /></div>
         <div className='mx-2'>
-          <p className='m-0' style={{color: "blue", textAlign: "start"}}>Welcome!</p>
+          <p className='m-0 text-primary' style={{ textAlign: "start"}}>Welcome!</p>
           <p style={{width: "100%"}}>Rohit Hutagonna</p>
         </div>
       </div>

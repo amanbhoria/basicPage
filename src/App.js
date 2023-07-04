@@ -15,7 +15,7 @@ function App() {
         <div className='col-4'>
           <Aside />
         </div>
-        <div className='col bg-secondary'>
+        <div className='col'>
         <Customer />
         </div>
       </div>

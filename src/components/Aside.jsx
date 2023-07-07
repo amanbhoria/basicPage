@@ -8,7 +8,7 @@ const Aside = () => {
         <div> <img src="" alt="profile-pic" /></div>
         <div className='mx-2'>
           <p className='m-0 text-primary' style={{ textAlign: "start"}}>Welcome!</p>
-          <p style={{width: "100%"}}>Rohit Hutagonna</p>
+          <p style={{width: "100%"}}>Aman Bhoria</p>
         </div>
       </div>
 
